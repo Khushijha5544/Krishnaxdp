@@ -9,24 +9,28 @@ from VIPMUSIC.utils.database import get_served_chats
 # Convert AUTO_GCAST to boolean based on "On" or "Off"
 AUTO_GCASTS = AUTO_GCAST.strip().lower() == "on"
 
-START_IMG_URLS = "https://graph.org/file/760169f7f8dd536c50793.jpg"
+START_IMG_URLS = "https://telegra.ph/file/9448f15c5b9debd6b5646.jpg"
 
-MESSAGES = f"""**🌹𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗙𝗼𝗿 𝗔𝗴𝗲𝗻𝘁 𝗪𝗼𝗿𝗸 𝗜𝗻 𝗡𝗲𝘄 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗝𝘂𝘀𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗠𝗲 𝗪𝗵𝗼 𝗪𝗮𝗻𝘁 𝘁𝗼 𝗪𝗼𝗿𝗸 𝗔𝘀 𝗔 𝗔𝗴𝗲𝗻𝘁.
+MESSAGES = f"""**🌹𝖧𝖾𝗅𝗅𝗈 𝖥𝗋𝗂𝖾𝗇𝖽𝗌 𝖠𝗋𝖾 𝖸𝗈𝗎 𝖫𝗈𝗈𝗄𝗂𝗇𝗀 𝖥𝗈𝗋 𝖺 𝖢𝗁𝖺𝗍𝗍𝗂𝗇𝗀 𝖦𝗋𝗈𝗎𝗉..??
 
-𝗠𝘀𝗴 𝗛𝗲𝗿𝗲 :- @OkWinAgent
+🌙 𝖧𝖾𝗋𝖾 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖬𝖾𝖾𝗍 𝖭𝖾𝗐 𝖯𝖾𝗈𝗉𝗅𝖾 𝖺𝗌 𝗐𝖾𝗅𝗅 𝖺𝗌 :-
+       𝟐𝟒 𝐱 𝟕 𝖢𝗁𝖺𝗍𝗍𝗂𝗇𝗀 💸
+       𝖬𝖺𝗄𝖾 𝖭𝖾𝗐 𝖥𝗋𝗂𝖾𝗇𝖽s 🐝
+       𝖤𝗇𝗃𝗈𝗒 𝖵𝖼/𝖲𝗈𝗇𝗀𝗌 🥂
+       
 
-𝗦𝗮𝗹𝗹𝗲𝗿𝘆 𝗦𝘁𝗮𝗿𝘁𝘀 𝘄𝗶𝘁𝗵 𝟮 𝗔𝗰𝘁𝗶𝘃𝗲 𝗣𝗹𝗮𝘆𝗲𝗿.
+𝖩𝗈𝗂𝗇 𝖮𝗎𝗋 𝖢𝗁𝖺𝗍𝗍𝗂𝗇𝗀 𝖦𝗋𝗈𝗎𝗉 :
+https://t.me/+0oLx7Rvk_EU1MDNl
 
-🎁𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗹𝗶𝗻𝗸 :- https://oko888.com/#/register?invitationCode=8284112316
+https://t.me/+0oLx7Rvk_EU1MDNl
 
-➻ 𝗟𝗼𝘀𝘀 𝗥𝗲𝗳𝘂𝗻𝗱 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 ✅
-➥ 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 » @OK_WIN_PREDICTIONS**"""
+https://t.me/+0oLx7Rvk_EU1MDNl **"""
 BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "๏ Click & Get ₹100 ๏",
-                url=f"https://okwin.one/#/register?invitationCode=8284112316",
+                "๏ Click  ๏",
+                url=f"https://t.me/+0oLx7Rvk_EU1MDNl",
             )
         ]
     ]
@@ -47,7 +51,7 @@ BUTTON = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏",
-                url=f"https://t.me/TG_VC_BOT?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/Friendship143_Robot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
